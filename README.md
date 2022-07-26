@@ -18,3 +18,4 @@
 * https://docs.google.com/document/d/1DBYtB6t8D4KTtEbOgu4E_9PrcRXZGdCv/edit?usp=sharing&ouid=114150934161052638720&rtpof=true&sd=true
 
 ## Calidad de Software
+* https://docs.google.com/document/d/1CRrUo7tqHD6qroAsj3rkMU5oax7qJqWp/edit?usp=sharing&ouid=114150934161052638720&rtpof=true&sd=true
