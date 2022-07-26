@@ -1,2 +1,5 @@
-# NeoTech_Evidencias
-Repositoria dedicado a las evidencias de exposición, documentación, código, etc. del proyecto integrador NeoTech.
+# NeoTech - Evidencias del proyecto integrador
+## Repositorios:
+* Backend: https://github.com/203429/neotech-backend
+* Frontend: https://github.com/203429/neotech-frontend
+* Arduino: https://github.com/203429/neotech-arduino
