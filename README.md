@@ -22,3 +22,4 @@
 
 ## Arquitectura de Computadoras
 * https://docs.google.com/document/d/1wYBKtjRKF-vfIyjxeGpQF7b11Y4Qs8Dl/edit?usp=sharing&ouid=114150934161052638720&rtpof=true&sd=true
+* Diagrama de circuitos: https://drive.google.com/file/d/1StMGgWGYx1ddv9qMWhLVfc-RtT3nU2gS/view?usp=sharing
